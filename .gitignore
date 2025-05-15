@@ -170,5 +170,9 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# Google Colab-specific paths
+/content/*
+/mnt/*
+
 # PyPI configuration file
 .pypirc
